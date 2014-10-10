@@ -1,4 +1,4 @@
 #!/bin/bash
 git add -A
-git commit -a -m "Updated"
+git commit -m "Updated"
 git push
