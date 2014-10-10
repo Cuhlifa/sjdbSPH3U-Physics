@@ -1,4 +1,3 @@
 #!/bin/bash
-git add "-A"
-git commit -m "Updated"
+git commit -a -m "Auto Updated By Phyisics Parser"
 git push
