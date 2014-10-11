@@ -1,4 +1,6 @@
-#!/bin/bash
-alias proj="cd /home/tree/projects/java"
-git commit -a -m "Auto Updated By Phyisics Parser"
+#!/bash/bin
+while true; do
+git commit -a -m "Phyisics Parser Auto Update"
 git push
+sleep 300
+done
